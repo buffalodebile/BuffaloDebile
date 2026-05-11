@@ -1,11 +1,11 @@
 ### Hey there 👋
 
-- 🤖 Into vibecoding & building automation stuff, mostly webapps. Currently working on :
+- 🤖 Into vibecoding & building automation stuff, mostly webapps. Currently working on:
 
-• Brandfolio.app
-• Unicornscreener.vc
-• Baguettefiscale.fr
-• Inklu.you
+• [Brandfolio.app](https://brandfolio.app)
+• [Unicornscreener.vc](https://unicornscreener.vc)
+• [Baguettefiscale.fr](https://baguettefiscale.fr)
+• [Inklu.you](https://inklu.you)
 
 
 
