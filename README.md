@@ -2,10 +2,9 @@
 
 - 🤖 Into vibecoding & building automation stuff, mostly webapps. Currently working on:
 
-• [Brandfolio.app](https://brandfolio.app)
 • [Unicornscreener.vc](https://unicornscreener.vc)
 • [Baguettefiscale.fr](https://baguettefiscale.fr)
-• [Inklu.you](https://inklu.you)
+• [Golum - Alpha Finance Strategy](https://buffalodebile.github.io/golum/)
 
 
 
