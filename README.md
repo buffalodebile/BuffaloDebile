@@ -4,7 +4,7 @@
 
 • [Unicornscreener.vc](https://unicornscreener.vc)
 • [Baguettefiscale.fr](https://baguettefiscale.fr)
-• [Golum - Alpha Finance Strategy](https://buffalodebile.github.io/golum/)
+• [Alpha Finance Strategy](https://buffalodebile.github.io/golum/)
 
 
 
