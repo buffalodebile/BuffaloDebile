@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-- 🤖 . Indie builder with a focus on AI & Finance. Currently working on:
+- 🤖 Indie builder with a focus on AI & Finance. Currently working on:
 
 • [Unicornscreener.vc](https://unicornscreener.vc)
 • [Prsima-capital.xyz](https://prisma-capital.xyz)
