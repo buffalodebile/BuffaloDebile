@@ -4,8 +4,9 @@ I'm an independent builder deploying proprietary solutions at the intersection o
 
 #### ⚡ Currently Building
 * **[Unicornscreener.vc](https://unicornscreener.vc)** • AI-powered venture capital due diligence.
-* **[BaguetteFiscale.fr](https://baguettefiscale.fr)** • Automated French tax declaration.
 * **[Prisma-capital.xyz](https://prisma-capital.xyz)** • Proprietary Quant Finance strategies.
+* **[BaguetteFiscale.fr](https://baguettefiscale.fr)** • Automated French tax declaration.
+
 
 ---
 
