@@ -1,9 +1,12 @@
 ### Hey there 👋
 
-- 🤖 Indie builder with a focus on AI & Finance. Currently building and working on:
+I'm an independent developer building production-ready platforms at the intersection of **AI & Finance**. 
 
-• [Unicornscreener.vc](https://unicornscreener.vc)
-• [Prsima-capital.xyz](https://prisma-capital.xyz)
-• [Baguettefiscale.fr](https://baguettefiscale.fr)
+#### ⚡ Currently Building
+* **[Unicornscreener.vc](https://unicornscreener.vc)** • AI-powered venture capital due diligence.
+* **[BaguetteFiscale.fr](https://baguettefiscale.fr)** • Automated French tax declaration.
+* **[Prisma-capital.xyz](https://prisma-capital.xyz)** • Proprietary Quant Finance strategies.
+
+---
 
 [![wakatime](https://wakatime.com/badge/user/a45821d6-263b-4ee7-996e-cf0fa1c0fb19.svg)](https://wakatime.com/@a45821d6-263b-4ee7-996e-cf0fa1c0fb19)
