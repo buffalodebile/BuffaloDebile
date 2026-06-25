@@ -6,6 +6,7 @@ I'm an independent builder deploying proprietary solutions at the intersection o
 * **[Unicornscreener.vc](https://unicornscreener.vc)** • AI Deep Search agents for venture capital due diligence.
 * **[Prisma-capital.xyz](https://prisma-capital.xyz)** • Proprietary Quant Finance strategies.
 * **[BaguetteFiscale.fr](https://baguettefiscale.fr)** • Automated French tax declaration.
+  & much more...
 
 
 ---
