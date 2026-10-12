@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm an independent builder deploying proprietary solutions at the intersection of **AI & Finance**. 
+I'm an independent product builder deploying proprietary solutions at the intersection of **AI & Finance**. 
 
 #### ⚡ Currently Building
 * **[Unicornscreener.vc](https://unicornscreener.vc)** • AI Deep Search agents for venture capital due diligence.
