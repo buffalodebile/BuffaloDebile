@@ -5,7 +5,7 @@ I'm an independent product builder creating digital products across **AI, Financ
 #### ⚡ Currently Building
 * **[Unicornscreener.vc](https://unicornscreener.vc)** • AI Deep Search agents for venture capital due diligence.
 * **[Prisma-capital.xyz](https://prisma-capital.xyz)** • Proprietary quantitative finance strategies.
-* **[ShallPass.lu](https://shallpass.lu)** • Interactive practice and mock exams for Luxembourg's motorcycle theory test.
+* **[ShallPass.lu](https://shallpass.lu)** • Interactive practice exams for Luxembourg's motorcycle theory test.
 * & much more...
 
 ---
